@@ -22,4 +22,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://github.com/robertobirijnr/Starbucks).
+See [Configuration Reference](https://youtu.be/G4_QjTJTVlc).
